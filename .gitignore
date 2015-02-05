@@ -25,4 +25,16 @@
 # Executables
 *.exe
 *.out
+
+*.suo
+
 *.app
+bin/
+obj/
+Debug/
+Release/
+
+*.idb
+*.pdb
+*.sdf
+*.suo
