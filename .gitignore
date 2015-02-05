@@ -38,3 +38,5 @@ Release/
 *.pdb
 *.sdf
 *.suo
+
+build/
